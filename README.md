@@ -5,6 +5,6 @@
 <a href="https://cyfhen.ru">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klarulor&count_private=true&theme=chartreuse-dark&layout=compact">
 </a>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Klarulor">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=klarulor">
 
 yee, olen Klarulor
