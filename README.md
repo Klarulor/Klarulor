@@ -20,7 +20,7 @@
 [![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/klarulor)
 [![github](https://img.shields.io/static/v1?label=&message=Twitter&color=191919&style=for-the-badge&logo=twitter)](https://twitter.com/klarulor)
 [![gitlab](https://img.shields.io/static/v1?label=&message=gitlab&color=191919&style=for-the-badge&logo=gitlab)](https://gitlab.com/klarulor)
-[![vk](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/klarulor
+[![vk](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/klarulor)
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=191919&style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/klarulor)
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/klarulor)
 
