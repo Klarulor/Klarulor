@@ -26,8 +26,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=klarulor&count_private=true&theme=midnight-purple&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klarulor&count_private=true&theme=midnight-purple&layout=compact">
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/klarulor/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/klarulor/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 I am a ~~FullStack~~ Backend developer.
 
