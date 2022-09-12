@@ -1,5 +1,4 @@
 <img src="https://wakatime.com/badge/user/6a8e0de8-7415-447b-bdbb-0a2d48c7fa84.svg"> 
------
 
 ### Hello, I am klarulor!
 
